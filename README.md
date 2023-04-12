@@ -13,9 +13,3 @@
 ![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raven737&theme=solarized_dark)
-
-<i class="fas fa-band-aid"></i>
-<i class="fas fa-cat"></i>
-<i class="fas fa-dragon"></i>
-<i class="far fa-clock"></i>
-<i class="fas fa-clock"></i>
