@@ -18,7 +18,6 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raven737&theme=solarized_dark)
 
-Статистика языков в коммитах:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daniilshat&theme=solarized_dark)
 
 <!-- Статистика языков в репозиториях:
@@ -26,6 +25,3 @@
 
 Статистика профиля:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daniilshat&theme=solarized_dark)
-
-Данные по коммитам за сутки:
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=daniilshat&theme=solarized_dark)
