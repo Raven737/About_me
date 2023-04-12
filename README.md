@@ -1,10 +1,6 @@
-<!-- - 👋 Hello, I’m Roman.
-- 👀 I’m interested in creating web sites.
-- 🌱 I’m currently improving my skills in JavaScript and React. -->
-
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Roman</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">I’m currently improving my skills in JavaScript and React</h3>
+<h3>I’m currently improving my skills in JavaScript and React</h3>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
