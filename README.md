@@ -14,4 +14,4 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raven737&theme=solarized_dark) -->
 
-(http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raven737&theme=solarized_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raven737&theme=solarized_dark)
