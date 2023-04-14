@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Roman</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif"/></h1>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h2>I’m currently improving my skills in JavaScript and React</h2>
 <h3>My skills</h3>
 
