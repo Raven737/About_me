@@ -2,6 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <p>Currently, I am focused on learning JavaScript and React with the goal of becoming a successful React developer. I am actively working on self-improvement, taking courses, and completing practical tasks to gain more practical experience. My goal is to become a competent React developer and contribute to the development of high-quality and scalable web applications. I believe that my perseverance, discipline, and ability to work in a team will help me achieve my goals in software development.</p>
 <h2>Kyiv, remote</h2>
+<h2>+38 (093) 849-88-55</h2>
 <h3>My skills</h3>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
