@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Roman</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <p>Currently, I am focused on learning JavaScript and React with the goal of becoming a skilled React developer. I am actively working on self-improvement, taking courses, and completing practical tasks to gain more practical experience. My goal is to become a skilled React developer and contribute to the development of high-quality and scalable web applications. I believe that my perseverance, discipline, and ability to work in a team will help me achieve my goals in software development.</p>
-
+<hr>
 <h3>My skills</h3>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -14,8 +14,6 @@
 ![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-
-</hr>
+<hr>
 My LinkedIn
-
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
