@@ -18,8 +18,10 @@ Currently, I am focused on learning JavaScript and React with the goal of becomi
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 <hr>
-
 <h3>Experience</h3>
+<p>2021 - Freelance</p>
+<p>2021 - Frontend React JS Web Development Course 2021</p>
+<p>2016 - 2020 - Freelance</p>
 
 <hr>
 
