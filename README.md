@@ -30,6 +30,6 @@ Currently, I am focused on learning JavaScript and React with the goal of becomi
 https://www.linkedin.com/in/roman-pantiushenko-570184204/
 
 <hr>
-<h3>Languages</h3>
+<h3>Languages:</h3>
 <p>Ukrainian - Native</p>
 <p>English - Upper-Intermediate</p>
