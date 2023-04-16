@@ -5,7 +5,7 @@ Currently, I am focused on learning JavaScript and React with the goal of becomi
 </p>
 <hr>
 
-<h3>My skills</h3>
+<h3>My skills:</h3>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -18,7 +18,7 @@ Currently, I am focused on learning JavaScript and React with the goal of becomi
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 <hr>
-<h3>Experience</h3>
+<h3>Experience:</h3>
 <p>2021 - Freelance</p>
 <p>2021 - Frontend React JS Web Development Course 2021</p>
 <p>2016 - 2020 - Freelance</p>
