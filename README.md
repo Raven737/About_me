@@ -4,6 +4,7 @@
 </p>
 <hr>
 Kyiv, remote
++38 (093) 849-88-55
 <hr>
 <h3>My skills</h3>
 
