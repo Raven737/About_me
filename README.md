@@ -20,7 +20,7 @@ Currently, I am focused on learning JavaScript and React with the goal of becomi
 <hr>
 <h3>Experience:</h3>
 <p>2021 - Freelance</p>
-<p>2021 - Frontend React JS Web Development Course 2021</p>
+<p>2021 - Front-end React JS Web Development Course 2021</p>
 <p>2016 - 2020 - Freelance</p>
 
 <hr>
