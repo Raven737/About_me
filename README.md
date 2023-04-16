@@ -4,7 +4,8 @@
 </p>
 <hr>
 <p>Kyiv, remote</p>
-+38 (093) 849-88-55
+<p>+38 (093) 849-88-55</p>
+<p>prvm79@ukr.net</p>
 <hr>
 <h3>My skills</h3>
 
