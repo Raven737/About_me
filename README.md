@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Roman<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"></h1>
+<h1>Hi there, I'm Roman<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"></h1>
 <h3>Front-end Developer / React JS</h3>
 <p>
 Currently, I am focused on learning JavaScript and React with the goal of becoming a skilled React developer. I am actively working on self-improvement, taking courses, and completing practical tasks to gain more practical experience. My goal is to become a skilled React developer and contribute to the development of high-quality and scalable web applications. I believe that my perseverance, discipline, and ability to work in a team will help me achieve my goals in software development.
