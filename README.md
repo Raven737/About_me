@@ -32,4 +32,5 @@ Currently, I am focused on learning JavaScript and React with the goal of becomi
 
 <hr>
 <h3>English:</h3>
-<p>Upper-Intermediate</p>
+<p href="https://www.linkedin.com/feed/update/urn:li:activity:7053058059899666432/">Upper-Intermediate</p>
+<!-- https://www.linkedin.com/feed/update/urn:li:activity:7053058059899666432/ -->
