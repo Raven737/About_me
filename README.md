@@ -32,5 +32,5 @@ Currently, I am focused on learning JavaScript and React with the goal of becomi
 
 <hr>
 <h3>English:</h3>
-<a target="_blank" href="https://www.linkedin.com/feed/update/urn:li:activity:7053058059899666432/">Upper-Intermediate</a>
+<a href="https://www.linkedin.com/feed/update/urn:li:activity:7053058059899666432/" target="_blank">Upper-Intermediate</a>
 <!-- https://www.linkedin.com/feed/update/urn:li:activity:7053058059899666432/ -->
