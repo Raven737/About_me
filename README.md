@@ -33,4 +33,4 @@ Currently, I am focused on learning JavaScript and React with the goal of becomi
 
 [![Amp](https://img.shields.io/badge/Upper%20Intermediate-F16061?style=for-the-badge)](https://www.linkedin.com/feed/update/urn:li:activity:7053058059899666432/)
 
-<!-- <a href="https://www.linkedin.com/feed/update/urn:li:activity:7053058059899666432/" target="_blank">Upper-Intermediate</a> -->
+<a href="https://www.linkedin.com/feed/update/urn:li:activity:7053058059899666432/" target="_blank" rel="noopener noreferrer">Upper-Intermediate</a>
