@@ -30,6 +30,6 @@ Currently, I am focused on learning JavaScript and React with the goal of becomi
 
 <hr>
 <h3>English:</h3>
-<!-- <a href="https://www.linkedin.com/feed/update/urn:li:activity:7053058059899666432/">Upper-Intermediate</a> -->
+<a href="https://www.linkedin.com/feed/update/urn:li:activity:7053058059899666432/">Upper-Intermediate</a>
 
 ![English](https://img.shields.io/badge/Language-English-red.svg?style=flat-square&logo=english&logoColor=white)
