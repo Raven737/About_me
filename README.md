@@ -19,9 +19,8 @@ Currently, I am focused on learning JavaScript and React with the goal of becomi
 
 <hr>
 <h3>Experience:</h3>
-<p>2021 - Freelance</p>
 <p>2021 - Front-end React JS Web Development Course 2021</p>
-<p>2016 - 2020 - Freelance</p>
+<p>2020 - Taking part in learning projects</p>
 
 <hr>
 <h3>My LinkedIn:</h3>
@@ -33,4 +32,4 @@ Currently, I am focused on learning JavaScript and React with the goal of becomi
 
 [![Amp](https://img.shields.io/badge/Upper%20Intermediate-F16061?style=for-the-badge)](https://www.linkedin.com/feed/update/urn:li:activity:7053058059899666432/)
 
-<a href="https://www.linkedin.com/feed/update/urn:li:activity:7053058059899666432/" rel="noopener">Upper-Intermediate</a>
+<!-- <a href="https://www.linkedin.com/feed/update/urn:li:activity:7053058059899666432/">Upper-Intermediate</a> -->
