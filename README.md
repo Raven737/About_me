@@ -26,9 +26,9 @@ Currently, I am focused on learning JavaScript and React with the goal of becomi
 <hr>
 <h3>My LinkedIn:</h3>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roman-pantiushenko-570184204/) {:target="_blank"}
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roman-pantiushenko-570184204/)
 
-<!-- https://www.linkedin.com/in/roman-pantiushenko-570184204/ -->
+![English](https://img.shields.io/badge/Language-English-red.svg?style=flat-square&logo=english&logoColor=white)
 
 <hr>
 <h3>English:</h3>
