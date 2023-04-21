@@ -32,7 +32,4 @@ Currently, I am focused on learning JavaScript and React with the goal of becomi
 <h3>English:</h3>
 <a href="https://www.linkedin.com/feed/update/urn:li:activity:7053058059899666432/">Upper-Intermediate</a>
 
-![Amp](https://img.shields.io/badge/Upper%20Intermediate-005AF0?style=for-the-badge)
-<!-- ![Amp](https://img.shields.io/badge/Upper_Intermediate-005AF0?style=for-the-badge&logo=amp&logoColor=white) -->
-
-![LinkedIn](https://img.shields.io/badge/Upper-Intermediate-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![Amp](https://img.shields.io/badge/Upper%20Intermediate-F16061?style=for-the-badge)
