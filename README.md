@@ -28,6 +28,8 @@ Currently, I am focused on learning JavaScript and React with the goal of becomi
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roman-pantiushenko-570184204/){target="\_blank\"}
 
+![Custom badge](https://img.shields.io/endpoint)
+
 <!-- https://www.linkedin.com/in/roman-pantiushenko-570184204/ -->
 
 <hr>
