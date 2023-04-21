@@ -19,8 +19,8 @@ Currently, I am focused on learning JavaScript and React with the goal of becomi
 
 <hr>
 <h3>Experience:</h3>
-<p>2021 - Front-end React JS Web Development Course 2021</p>
-<p>2020 - Taking part in learning projects</p>
+<p>2022 - Front-end React JS Web Development Course 2021</p>
+<p>2020 - 2021 - Taking part in learning projects</p>
 
 <hr>
 <h3>My LinkedIn:</h3>
