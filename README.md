@@ -5,7 +5,7 @@
 Currently, I am focused on learning JavaScript and React with the goal of becoming a skilled React developer. I am actively working on self-improvement, taking courses, and completing practical tasks to gain more practical experience. My goal is to become a skilled React developer and contribute to the development of high-quality and scalable web applications. I believe that my perseverance, discipline, and ability to work in a team will help me achieve my goals in software development.
 </p>
 <hr>
-<h3>My skills:</h3>
+<h2>My skills:</h2>
 
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](#)
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](#)
@@ -18,17 +18,17 @@ Currently, I am focused on learning JavaScript and React with the goal of becomi
 [![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](#)
 
 <hr>
-<h3>Experience:</h3>
+<h2>Experience:</h2>
 <p>2022 - Front-end React JS Web Development Course</p>
 <p>2020 - 2021 - Taking part in learning projects</p>
 
 <hr>
-<h3>My LinkedIn:</h3>
+<h2>My LinkedIn:</h2>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roman-pantiushenko-570184204/)
 
 <hr>
-<h3>English:</h3>
+<h2>English:</h2>
 
 [![Amp](https://img.shields.io/badge/Upper%20Intermediate-F16061?style=for-the-badge)](https://www.linkedin.com/feed/update/urn:li:activity:7053058059899666432/)
 
