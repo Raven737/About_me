@@ -22,7 +22,7 @@
 
 <hr>
 <h2>Experience:</h2>
-<p>2022 - Front-end React JS Web Development Course.</p>
+<p>2021 - Front-end React JS Web Development Course.</p>
 <p>2020 - 2021 - Taking part in learning projects.</p>
 
 <hr>
