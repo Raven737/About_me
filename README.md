@@ -1,6 +1,5 @@
-<span id="header"># Hi there, I'm Roman<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"></span>
-
-# Hi there, I'm Roman<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32">
+<h1 id="title">Hi there, I'm Roman<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"></h1>
+<style>#title {border-bottom: none}</style>
 
 ## Front-end Developer / React&nbsp;JS
 
