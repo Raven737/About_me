@@ -23,13 +23,14 @@
 ## Experience:
 <p>2021 - Front-end React JS Web Development Course.</p>
 <p>2020 - 2021 - Taking part in learning projects.</p>
-
+<!--
 ## My LinkedIn:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roman-pantiushenko-570184204/)
-
+-->
+<!--
 ## My Codewars:
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/Raven737)
-
+-->
 ## English:
 [![Amp](https://img.shields.io/badge/Upper%20Intermediate-F16061?style=for-the-badge)](https://www.linkedin.com/feed/update/urn:li:activity:7053058059899666432/)
 <!-- <a href="https://www.linkedin.com/feed/update/urn:li:activity:7053058059899666432/">Upper-Intermediate</a> -->
